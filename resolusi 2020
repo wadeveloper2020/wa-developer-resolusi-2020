@@ -1,7 +1,23 @@
 RESOLUSI 2020
--MAMPU MEMBUAT APLIKASI ANDROID SENDIRI
--MEMPERBAIKI AKHLAK
--MENYUSUN SKRIPSI
--WISUDA
--BEKERJA
+-belajar bahasa pemrograman java
+ *pencabangan :
+ 	>if else statement
+ 	>if else if statement
+ 	>if bersarang (nested if)
+	>switch case
+ *perulangan :
+	>while loop
+	>do while loop
+	>for loop
+ *array :
+	>array multi dimensi
+	>array 2d (operasi matrix)
+-belajar android
+ *activity
+ *intent
+ *fragment
+ *list view
+ *action bar
+ *view group
+
 
