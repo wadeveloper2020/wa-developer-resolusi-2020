@@ -6,5 +6,4 @@ RENCANA BELAJAR
 -git dan github
 -cloud computing
  *container
- *image
 -projek menejer
