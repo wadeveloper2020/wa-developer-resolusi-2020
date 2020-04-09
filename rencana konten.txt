@@ -7,3 +7,4 @@ RENCANA BELAJAR
 -cloud computing
  *container
 -projek menejer
+-android fundamental
