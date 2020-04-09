@@ -1,4 +1,6 @@
 RENCANA BELAJAR
 -UI & UX
+ *Adobe Ilustator
+ *Adobe XD
 -OOP
 -VVM
