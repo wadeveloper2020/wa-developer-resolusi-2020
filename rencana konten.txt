@@ -4,3 +4,6 @@ RENCANA BELAJAR
  *Adobe XD
 -OOP
 -git dan github
+-cloud computing
+ *container
+ *image
