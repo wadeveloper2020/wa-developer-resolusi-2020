@@ -3,4 +3,4 @@ RENCANA BELAJAR
  *Adobe Ilustator
  *Adobe XD
 -OOP
--VVM
+-git dan github
